@@ -1,2 +1,4 @@
 # hello-world-2
-Just another repository
+
+Hello peoples
+Dragonny here's! I like lasagna and video games.
